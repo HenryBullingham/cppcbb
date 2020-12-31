@@ -1,0 +1,7 @@
+// Copyright(C) 2020 Henry Bullingham
+// This file is subject to the license terms in the LICENSE file
+// found in the top - level directory of this distribution.
+
+#define CATCH_CONFIG_MAIN
+#include "catch_amalgamated.hpp"
+#include "catch_amalgamated.cpp"

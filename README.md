@@ -33,7 +33,7 @@ void main()
     //Can call same methods as above
 
     //Static size vectorVector where erase swaps with end element
-    cppcbb:cbb_static_unordered_vector<int> static_unordered_vector;
+    cppcbb:cbb_static_unordered_vector<int, 50> static_unordered_vector;
     //Can call same methods as above
 }
 
